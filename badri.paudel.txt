@@ -1,1 +1,1 @@
-This file is create by Badri Paudel for a git excercise, github workshop at MIU.
+This file is created by Badri Paudel for a github workshop excercise at MIU.
